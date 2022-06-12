@@ -21,7 +21,7 @@ function App() {
   return (
     <>
       <div className='App'>
-        <div className='bg-layout'>Todo List App Group 1 - STAGING</div>
+        <div className='bg-layout'>Todo List App Group 1 - MAS FARUQ</div>
         <div className='bg-container'>
           <Create myData={myData} setMyData={setMyData} />
           <div className='container pt-5'>
